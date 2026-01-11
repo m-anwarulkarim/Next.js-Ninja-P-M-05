@@ -1,4 +1,4 @@
-# Be a Next.js Ninja
+# mission : 5. _Be a Next.js Ninja_
 
 ---
 
@@ -11,19 +11,19 @@
 
 ---
 
-# 📦 Module 01 — Prisma ORM Fundamentals
+# 📦 Module 01 — Next.js Fundamentals
 
 ### 📚 Topics Covered
 
-| No. | Topic              | Link                        |
-| --- | ------------------ | --------------------------- |
-| 01  | 🔏 Comming Soon... | [View](./module-22/C-01.md) |
-| 02  | 🔏 Comming Soon... | [View](./module-22/C-02.md) |
-| 03  | 🔏 Comming Soon... | [View](./module-22/C-03.md) |
-| 04  | 🔏 Comming Soon... | [View](./module-22/C-04.md) |
-| 05  | 🔏 Comming Soon... | [View](./module-22/C-05.md) |
-| 06  | 🔏 Comming Soon... | [View](./module-22/C-06.md) |
-| 07  | 🔏 Comming Soon... | [View](./module-22/C-07.md) |
-| 08  | 🔏 Comming Soon... | [View](./module-22/C-08.md) |
-| 09  | 🔏 Comming Soon... | [View](./module-22/C-09.md) |
-| 10  | 🔏 Comming Soon... | [View](./module-22/C-10.md) |
+| No. | Topic                                    | Link                        |
+| --- | ---------------------------------------- | --------------------------- |
+| 01  | 🔏 react SPL Limitations nextjs solution | [View](./module-01/C-01.md) |
+| 02  | 🔏 Why Next.js is the Best Framework     | [View](./module-22/C-02.md) |
+| 03  | 🔏 Next.js Features Deep Explanation     | [View](./module-22/C-03.md) |
+| 04  | 🔏 Comming Soon...                       | [View](./module-22/C-04.md) |
+| 05  | 🔏 Comming Soon...                       | [View](./module-22/C-05.md) |
+| 06  | 🔏 Comming Soon...                       | [View](./module-22/C-06.md) |
+| 07  | 🔏 Comming Soon...                       | [View](./module-22/C-07.md) |
+| 08  | 🔏 Comming Soon...                       | [View](./module-22/C-08.md) |
+| 09  | 🔏 Comming Soon...                       | [View](./module-22/C-09.md) |
+| 10  | 🔏 Comming Soon...                       | [View](./module-22/C-10.md) |
