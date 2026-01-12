@@ -20,7 +20,7 @@
 | 01  | 🔏 react SPL Limitations nextjs solution | [View](./module-01/C-01.md) |
 | 02  | 🔏 Why Next.js is the Best Framework     | [View](./module-22/C-02.md) |
 | 03  | 🔏 Next.js Features Deep Explanation     | [View](./module-22/C-03.md) |
-| 04  | 🔏 Comming Soon...                       | [View](./module-22/C-04.md) |
+| 04  | 🔏 Page Router vs App Router             | [View](./module-22/C-04.md) |
 | 05  | 🔏 Comming Soon...                       | [View](./module-22/C-05.md) |
 | 06  | 🔏 Comming Soon...                       | [View](./module-22/C-06.md) |
 | 07  | 🔏 Comming Soon...                       | [View](./module-22/C-07.md) |
