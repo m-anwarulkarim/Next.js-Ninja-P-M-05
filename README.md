@@ -38,7 +38,7 @@
 | 02  | 🔏 loading.js                  | [View](./module-02//C-02.md) |
 | 03  | 🔏 error.js                    | [View](./module-02//C-03.md) |
 | 04  | 🔏 Static vs Dynamic Rendering | [View](./module-02//C-04.md) |
-| 05  | 🔏 Comming Soon...             | [View](./module-02//C-05.md) |
+| 05  | 🔏 "use client"                | [View](./module-02//C-05.md) |
 | 06  | 🔏 Comming Soon...             | [View](./module-02//C-06.md) |
 | 07  | 🔏 Comming Soon...             | [View](./module-02//C-07.md) |
 | 08  | 🔏 Comming Soon...             | [View](./module-02//C-08.md) |
