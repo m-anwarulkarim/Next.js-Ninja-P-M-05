@@ -32,15 +32,15 @@
 
 ### 📚 Topics Covered
 
-| No. | Topic                          | Link                         |
-| --- | ------------------------------ | ---------------------------- |
-| 01  | 🔏 suppressHydrationWarning    | [View](./module-02//C-01.md) |
-| 02  | 🔏 loading.js                  | [View](./module-02//C-02.md) |
-| 03  | 🔏 error.js                    | [View](./module-02//C-03.md) |
-| 04  | 🔏 Static vs Dynamic Rendering | [View](./module-02//C-04.md) |
-| 05  | 🔏 "use client"                | [View](./module-02//C-05.md) |
-| 06  | 🔏 Comming Soon...             | [View](./module-02//C-06.md) |
-| 07  | 🔏 Comming Soon...             | [View](./module-02//C-07.md) |
-| 08  | 🔏 Comming Soon...             | [View](./module-02//C-08.md) |
-| 09  | 🔏 Comming Soon...             | [View](./module-02//C-09.md) |
-| 10  | 🔏 Comming Soon...             | [View](./module-02//C-10.md) |
+| No. | Topic                              | Link                         |
+| --- | ---------------------------------- | ---------------------------- |
+| 01  | 🔏 suppressHydrationWarning        | [View](./module-02//C-01.md) |
+| 02  | 🔏 loading.js                      | [View](./module-02//C-02.md) |
+| 03  | 🔏 error.js                        | [View](./module-02//C-03.md) |
+| 04  | 🔏 Static vs Dynamic Rendering     | [View](./module-02//C-04.md) |
+| 05  | 🔏 "use client"                    | [View](./module-02//C-05.md) |
+| 06  | 🔏 Route Groups (Multiple Layouts) | [View](./module-02//C-06.md) |
+| 07  | 🔏 Comming Soon...                 | [View](./module-02//C-07.md) |
+| 08  | 🔏 Comming Soon...                 | [View](./module-02//C-08.md) |
+| 09  | 🔏 Comming Soon...                 | [View](./module-02//C-09.md) |
+| 10  | 🔏 Comming Soon...                 | [View](./module-02//C-10.md) |
