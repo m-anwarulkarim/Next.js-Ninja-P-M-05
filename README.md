@@ -40,7 +40,8 @@
 | 04  | 🔏 Static vs Dynamic Rendering     | [View](./module-02//C-04.md) |
 | 05  | 🔏 "use client"                    | [View](./module-02//C-05.md) |
 | 06  | 🔏 Route Groups (Multiple Layouts) | [View](./module-02//C-06.md) |
-| 07  | 🔏 Comming Soon...                 | [View](./module-02//C-07.md) |
-| 08  | 🔏 Comming Soon...                 | [View](./module-02//C-08.md) |
-| 09  | 🔏 Comming Soon...                 | [View](./module-02//C-09.md) |
-| 10  | 🔏 Comming Soon...                 | [View](./module-02//C-10.md) |
+| 07  | 🔏 Parallel Routes                 | [View](./module-02//C-07.md) |
+| 08  | 🔏 Role-based Sidebar              | [View](./module-02//C-08.md) |
+| 09  | 🔏 Intercepting Routes             | [View](./module-02//C-09.md) |
+| 10  | 🔏 Proxy                           | [View](./module-02//C-10.md) |
+| 11  | 🔏 public Folder                   | [View](./module-02//C-11.md) |
