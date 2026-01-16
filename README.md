@@ -28,7 +28,7 @@
 | 09  | 🔏 Comming Soon...                       | [View](./module-22/C-09.md) |
 | 10  | 🔏 Comming Soon...                       | [View](./module-22/C-10.md) |
 
-# 📦 Module 02 — Next.js Fundamentals
+# 📦 Module 02 — Next.js Advanced Routing & Rendering Essentials
 
 ### 📚 Topics Covered
 
@@ -45,3 +45,23 @@
 | 09  | 🔏 Intercepting Routes             | [View](./module-02//C-09.md) |
 | 10  | 🔏 Proxy                           | [View](./module-02//C-10.md) |
 | 11  | 🔏 public Folder                   | [View](./module-02//C-11.md) |
+
+<!-- ======================================================= -->
+
+# 📦 Module 02 — Next.js Fundamentals
+
+### 📚 Topics Covered
+
+| No. | Topic                        | Link                         |
+| --- | ---------------------------- | ---------------------------- |
+| 01  | 🔏 token-based authenticatio | [View](./module-02//C-01.md) |
+| 02  | 🔏 Comming soon........      | [View](./module-02//C-02.md) |
+| 03  | 🔏 Comming soon........      | [View](./module-02//C-03.md) |
+| 04  | 🔏 Comming soon........      | [View](./module-02//C-04.md) |
+| 05  | 🔏 Comming soon........      | [View](./module-02//C-05.md) |
+| 06  | 🔏 Comming soon........      | [View](./module-02//C-06.md) |
+| 07  | 🔏 Comming soon........      | [View](./module-02//C-07.md) |
+| 08  | 🔏 Comming soon........      | [View](./module-02//C-08.md) |
+| 09  | 🔏 Comming soon........      | [View](./module-02//C-09.md) |
+| 10  | 🔏 Comming soon........      | [View](./module-02//C-10.md) |
+| 11  | 🔏 Comming soon........      | [View](./module-02//C-11.md) |
