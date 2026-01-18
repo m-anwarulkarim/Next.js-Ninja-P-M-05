@@ -32,19 +32,19 @@
 
 ### 📚 Topics Covered
 
-| No. | Topic                              | Link                         |
-| --- | ---------------------------------- | ---------------------------- |
-| 01  | 🔏 suppressHydrationWarning        | [View](./module-02//C-01.md) |
-| 02  | 🔏 loading.js                      | [View](./module-02//C-02.md) |
-| 03  | 🔏 error.js                        | [View](./module-02//C-03.md) |
-| 04  | 🔏 Static vs Dynamic Rendering     | [View](./module-02//C-04.md) |
-| 05  | 🔏 "use client"                    | [View](./module-02//C-05.md) |
-| 06  | 🔏 Route Groups (Multiple Layouts) | [View](./module-02//C-06.md) |
-| 07  | 🔏 Parallel Routes                 | [View](./module-02//C-07.md) |
-| 08  | 🔏 Role-based Sidebar              | [View](./module-02//C-08.md) |
-| 09  | 🔏 Intercepting Routes             | [View](./module-02//C-09.md) |
-| 10  | 🔏 Proxy                           | [View](./module-02//C-10.md) |
-| 11  | 🔏 public Folder                   | [View](./module-02//C-11.md) |
+| No. | Topic                              | Link                        |
+| --- | ---------------------------------- | --------------------------- |
+| 01  | 🔏 suppressHydrationWarning        | [View](./module-02/C-01.md) |
+| 02  | 🔏 loading.js                      | [View](./module-02/C-02.md) |
+| 03  | 🔏 error.js                        | [View](./module-02/C-03.md) |
+| 04  | 🔏 Static vs Dynamic Rendering     | [View](./module-02/C-04.md) |
+| 05  | 🔏 "use client"                    | [View](./module-02/C-05.md) |
+| 06  | 🔏 Route Groups (Multiple Layouts) | [View](./module-02/C-06.md) |
+| 07  | 🔏 Parallel Routes                 | [View](./module-02/C-07.md) |
+| 08  | 🔏 Role-based Sidebar              | [View](./module-02/C-08.md) |
+| 09  | 🔏 Intercepting Routes             | [View](./module-02/C-09.md) |
+| 10  | 🔏 Proxy                           | [View](./module-02/C-10.md) |
+| 11  | 🔏 public Folder                   | [View](./module-02/C-11.md) |
 
 <!-- ======================================================= -->
 
@@ -52,16 +52,30 @@
 
 ### 📚 Topics Covered
 
-| No. | Topic                        | Link                         |
-| --- | ---------------------------- | ---------------------------- |
-| 01  | 🔏 token-based authenticatio | [View](./module-02//C-01.md) |
-| 02  | 🔏 Comming soon........      | [View](./module-02//C-02.md) |
-| 03  | 🔏 Comming soon........      | [View](./module-02//C-03.md) |
-| 04  | 🔏 Comming soon........      | [View](./module-02//C-04.md) |
-| 05  | 🔏 Comming soon........      | [View](./module-02//C-05.md) |
-| 06  | 🔏 Comming soon........      | [View](./module-02//C-06.md) |
-| 07  | 🔏 Comming soon........      | [View](./module-02//C-07.md) |
-| 08  | 🔏 Comming soon........      | [View](./module-02//C-08.md) |
-| 09  | 🔏 Comming soon........      | [View](./module-02//C-09.md) |
-| 10  | 🔏 Comming soon........      | [View](./module-02//C-10.md) |
-| 11  | 🔏 Comming soon........      | [View](./module-02//C-11.md) |
+| No. | Topic                           | Link                        |
+| --- | ------------------------------- | --------------------------- |
+| 01  | 🔏 token-based authenticatio    | [View](./module-02/C-01.md) |
+| 02  | 🔏 Session-based authentication | [View](./module-02/C-02.md) |
+| 03  | 🔏 Cookies vs LocalStorage      | [View](./module-02/C-03.md) |
+| 04  | 🔏 Comming soon........         | [View](./module-02/C-04.md) |
+| 05  | 🔏 Comming soon........         | [View](./module-02/C-05.md) |
+
+<!-- ============== -->
+
+# 📦 Module 03 — Next.js Fundamentals
+
+### 📚 Topics Covered
+
+| No. | Topic                                                         | Link                        |
+| --- | ------------------------------------------------------------- | --------------------------- |
+| 01  | 🔏 Next.js RSC Data Fetching: Cache, Revalidation & DB Access | [View](./module-03/C-01.md) |
+| 02  | 🔏 Comming soon........                                       | [View](./module-03/C-02.md) |
+| 03  | 🔏 Comming soon........                                       | [View](./module-03/C-03.md) |
+| 04  | 🔏 Comming soon........                                       | [View](./module-03/C-04.md) |
+| 05  | 🔏 Comming soon........                                       | [View](./module-03/C-05.md) |
+| 06  | 🔏 Comming soon........                                       | [View](./module-03/C-06.md) |
+| 07  | 🔏 Comming soon........                                       | [View](./module-03/C-07.md) |
+| 08  | 🔏 Comming soon........                                       | [View](./module-03/C-08.md) |
+| 09  | 🔏 Comming soon........                                       | [View](./module-03/C-09.md) |
+| 10  | 🔏 Comming soon........                                       | [View](./module-03/C-10.md) |
+| 11  | 🔏 Comming soon........                                       | [View](./module-03/C-11.md) |
