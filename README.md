@@ -18,15 +18,15 @@
 | No. | Topic                                    | Link                        |
 | --- | ---------------------------------------- | --------------------------- |
 | 01  | 🔏 react SPL Limitations nextjs solution | [View](./module-01/C-01.md) |
-| 02  | 🔏 Why Next.js is the Best Framework     | [View](./module-22/C-02.md) |
-| 03  | 🔏 Next.js Features Deep Explanation     | [View](./module-22/C-03.md) |
-| 04  | 🔏 Page Router vs App Router             | [View](./module-22/C-04.md) |
-| 05  | 🔏 Comming Soon...                       | [View](./module-22/C-05.md) |
-| 06  | 🔏 Comming Soon...                       | [View](./module-22/C-06.md) |
-| 07  | 🔏 Comming Soon...                       | [View](./module-22/C-07.md) |
-| 08  | 🔏 Comming Soon...                       | [View](./module-22/C-08.md) |
-| 09  | 🔏 Comming Soon...                       | [View](./module-22/C-09.md) |
-| 10  | 🔏 Comming Soon...                       | [View](./module-22/C-10.md) |
+| 02  | 🔏 Why Next.js is the Best Framework     | [View](./module-01/C-02.md) |
+| 03  | 🔏 Next.js Features Deep Explanation     | [View](./module-01/C-03.md) |
+| 04  | 🔏 Page Router vs App Router             | [View](./module-01/C-04.md) |
+| 05  | 🔏 Comming Soon...                       | [View](./module-01/C-05.md) |
+| 06  | 🔏 Comming Soon...                       | [View](./module-01/C-06.md) |
+| 07  | 🔏 Comming Soon...                       | [View](./module-01/C-07.md) |
+| 08  | 🔏 Comming Soon...                       | [View](./module-01/C-08.md) |
+| 09  | 🔏 Comming Soon...                       | [View](./module-01/C-09.md) |
+| 10  | 🔏 Comming Soon...                       | [View](./module-01/C-10.md) |
 
 # 📦 Module 02 — Next.js Advanced Routing & Rendering Essentials
 
@@ -48,34 +48,34 @@
 
 <!-- ======================================================= -->
 
-# 📦 Module 02 — Next.js Fundamentals
+# 📦 Module 03 — Next.js Fundamentals
 
 ### 📚 Topics Covered
 
 | No. | Topic                           | Link                        |
 | --- | ------------------------------- | --------------------------- |
-| 01  | 🔏 token-based authenticatio    | [View](./module-02/C-01.md) |
-| 02  | 🔏 Session-based authentication | [View](./module-02/C-02.md) |
-| 03  | 🔏 Cookies vs LocalStorage      | [View](./module-02/C-03.md) |
-| 04  | 🔏 Comming soon........         | [View](./module-02/C-04.md) |
-| 05  | 🔏 Comming soon........         | [View](./module-02/C-05.md) |
+| 01  | 🔏 token-based authenticatio    | [View](./module-03/C-01.md) |
+| 02  | 🔏 Session-based authentication | [View](./module-03/C-02.md) |
+| 03  | 🔏 Cookies vs LocalStorage      | [View](./module-03/C-03.md) |
+| 04  | 🔏 Comming soon........         | [View](./module-03/C-04.md) |
+| 05  | 🔏 Comming soon........         | [View](./module-03/C-05.md) |
 
 <!-- ============== -->
 
-# 📦 Module 03 — Next.js Fundamentals
+# 📦 Module 04 — Next.js Fundamentals
 
 ### 📚 Topics Covered
 
 | No. | Topic                                                         | Link                        |
 | --- | ------------------------------------------------------------- | --------------------------- |
-| 01  | 🔏 Next.js RSC Data Fetching: Cache, Revalidation & DB Access | [View](./module-03/C-01.md) |
-| 02  | 🔏 Comming soon........                                       | [View](./module-03/C-02.md) |
-| 03  | 🔏 Comming soon........                                       | [View](./module-03/C-03.md) |
-| 04  | 🔏 Comming soon........                                       | [View](./module-03/C-04.md) |
-| 05  | 🔏 Comming soon........                                       | [View](./module-03/C-05.md) |
-| 06  | 🔏 Comming soon........                                       | [View](./module-03/C-06.md) |
-| 07  | 🔏 Comming soon........                                       | [View](./module-03/C-07.md) |
-| 08  | 🔏 Comming soon........                                       | [View](./module-03/C-08.md) |
-| 09  | 🔏 Comming soon........                                       | [View](./module-03/C-09.md) |
-| 10  | 🔏 Comming soon........                                       | [View](./module-03/C-10.md) |
-| 11  | 🔏 Comming soon........                                       | [View](./module-03/C-11.md) |
+| 01  | 🔏 Next.js RSC Data Fetching: Cache, Revalidation & DB Access | [View](./module-04/C-01.md) |
+| 02  | 🔏 Comming soon........                                       | [View](./module-04/C-02.md) |
+| 03  | 🔏 Comming soon........                                       | [View](./module-04/C-03.md) |
+| 04  | 🔏 Comming soon........                                       | [View](./module-04/C-04.md) |
+| 05  | 🔏 Comming soon........                                       | [View](./module-04/C-05.md) |
+| 06  | 🔏 Comming soon........                                       | [View](./module-04/C-06.md) |
+| 07  | 🔏 Comming soon........                                       | [View](./module-04/C-07.md) |
+| 08  | 🔏 Comming soon........                                       | [View](./module-04/C-08.md) |
+| 09  | 🔏 Comming soon........                                       | [View](./module-04/C-09.md) |
+| 10  | 🔏 Comming soon........                                       | [View](./module-04/C-10.md) |
+| 11  | 🔏 Comming soon........                                       | [View](./module-04/C-11.md) |
