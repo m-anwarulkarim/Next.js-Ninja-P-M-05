@@ -79,3 +79,23 @@
 | 09  | 🔏 Comming soon........                                       | [View](./module-04/C-09.md) |
 | 10  | 🔏 Comming soon........                                       | [View](./module-04/C-10.md) |
 | 11  | 🔏 Comming soon........                                       | [View](./module-04/C-11.md) |
+
+<!-- ============== -->
+
+# 📦 Module 0 — Next.js Fundamentals
+
+### 📚 Topics Covered
+
+| No. | Topic                             | Link                        |
+| --- | --------------------------------- | --------------------------- |
+| 01  | 🔏 Next.js Slug (Dynamic Routing) | [View](./module-05/C-01.md) |
+| 02  | 🔏 Comming soon........           | [View](./module-05/C-02.md) |
+| 03  | 🔏 Comming soon........           | [View](./module-05/C-03.md) |
+| 04  | 🔏 Comming soon........           | [View](./module-05/C-04.md) |
+| 05  | 🔏 Comming soon........           | [View](./module-05/C-05.md) |
+| 06  | 🔏 Comming soon........           | [View](./module-05/C-06.md) |
+| 07  | 🔏 Comming soon........           | [View](./module-05/C-07.md) |
+| 08  | 🔏 Comming soon........           | [View](./module-05/C-08.md) |
+| 09  | 🔏 Comming soon........           | [View](./module-05/C-09.md) |
+| 10  | 🔏 Comming soon........           | [View](./module-05/C-10.md) |
+| 11  | 🔏 Comming soon........           | [View](./module-05/C-11.md) |
